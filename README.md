@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, R, SQL, and Java in general, or inquiring about their roles in the data field would be great.**
 
-- 📫 How to reach me? DM / mention through **twitter.com/lymphoidcell**
+- 📫 How to reach me? DM / mention through **[twitter.com/lymphoidcell](https://twitter.com/lymphoidcell)**
   
 - 🙌 Check my other profile that utilizes Linux as the primary tool **[github.com](https://github.com/anotherphanie)**
 
