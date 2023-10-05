@@ -1,4 +1,4 @@
-[![MasterHead](https://tryengineering.org/wp-content/uploads/bigstock-Female-Scientist-Working-In-La-282560680-scaled.jpg)]
+![MasterHead](https://tryengineering.org/wp-content/uploads/bigstock-Female-Scientist-Working-In-La-282560680-scaled.jpg)
 <h1 align="center">Hi 👋, I'm Phanie</h1>
 <h3 align="center">A passionate machine learning engineer and learner from Indonesia</h3>
 
