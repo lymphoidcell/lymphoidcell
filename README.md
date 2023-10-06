@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/lymphoidcell" target="blank"><img src="https://img.shields.io/twitter/follow/lymphoidcell?logo=twitter&style=for-the-badge" alt="lymphoidcell" /></a> </p>
 
-- 🌱 I’m currently learning about **Generative AI in life science applications, whereas most of my previous work has revolved around computer vision and NLP.**
+- 🌱 I’m currently eager to learn more about **Generative AI in life science applications, whereas most of my previous work has revolved around computer vision and NLP.**
 
 - 💬 Ask me about **Python, R, SQL, and Java in general, or inquiring about their roles in the data field would be great.**
 
