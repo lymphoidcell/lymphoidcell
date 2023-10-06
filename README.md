@@ -10,10 +10,6 @@
   
 - 🙌 Check my other profile that utilizes Linux as the primary tool **[github.com](https://github.com/anotherphanie)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lymphoidcell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lymphoidcell" height="30" width="40" /></a>
