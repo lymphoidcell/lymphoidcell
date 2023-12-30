@@ -8,7 +8,7 @@
 
 - 📫 How to reach me? DM / mention through **[twitter.com/lymphoidcell](https://twitter.com/lymphoidcell)**
   
-- 🙌 Check my other profile that utilizes Linux as the primary tool **[github.com](https://github.com/anotherphanie)**
+- 🙌 Check my other profile that utilizes Linux as the primary tool **[github.com](https://github.com/inflammazome)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
