@@ -2,4 +2,4 @@
 <h1 align="center">Hi 👋, I'm Phanie</h1>
 - 📫 How to reach me **x.com/scholastiica**
 
-
+![lymphoidcell's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lymphoidcell&theme=dracula&hide_border=true)
