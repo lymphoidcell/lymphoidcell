@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Phanie</h1>
-<p align="center">## 📫 Connect with Me
 
+## 📫 Connect with Me
 - **LeetCode:** [@lymphoidcell](https://leetcode.com/u/lymphoidcell/)
 - **LinkedIn:** [Theophanie Scholastica Tanzil](https://www.linkedin.com/in/thscho/)
+- **X (Twitter):** [@phanietanzil](https://x.com/phanietanzil)
 - **Email:** [theophanietanzil@gmail.com](mailto:theophanietanzil@gmail.com)
 
 <p align="center">
