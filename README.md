@@ -2,6 +2,12 @@
 
 <div align="center">
 
+# AI/ML, Full Stack Data, Bioinformatics
+  
+</div>
+
+<div align="center">
+
 ## 📫 Connect with Me
 
 - **LeetCode:** [@lymphoidcell](https://leetcode.com/u/lymphoidcell/)
