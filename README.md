@@ -2,18 +2,27 @@
 
 <div align="center">
 
-# AI/ML, Full Stack Data, Bioinformatics
-  
+  <h2>AI/ML, Full Stack Data, Bioinformatics</h2>
+
 </div>
 
 <div align="center">
 
-## 📫 Connect with Me
+  <h3>💻 Portfolio</h3>
+  <p>Explore my portfolio, a collection of <a href="https://github.com/lymphoidcell/Portfolio-Guide/blob/main/README.md">projects</a>.</p>
 
-- **LeetCode:** [@lymphoidcell](https://leetcode.com/u/lymphoidcell/)
-- **LinkedIn:** [Theophanie Scholastica Tanzil](https://www.linkedin.com/in/thscho/)
-- **X (Twitter):** [@phanietanzil](https://x.com/phanietanzil)
-- **Email:** [theophanietanzil@gmail.com](mailto:theophanietanzil@gmail.com)
+</div>
+
+<div align="center">
+
+  <h3>📫 Connect with Me</h3>
+
+  <ul>
+    <li><strong>LeetCode:</strong> <a href="https://leetcode.com/u/lymphoidcell/">@lymphoidcell</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/thscho/">Theophanie Scholastica Tanzil</a></li>
+    <li><strong>X (Twitter):</strong> <a href="https://x.com/phanietanzil">@phanietanzil</a></li>
+    <li><strong>Email:</strong> <a href="mailto:theophanietanzil@gmail.com">theophanietanzil@gmail.com</a></li>
+  </ul>
 
 </div>
 
