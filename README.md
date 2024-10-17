@@ -17,10 +17,10 @@
 
   <h3>📫 Connect with Me</h3>
 
-  <ul>
+  <ul style="list-style: none;">
     <li><strong>LeetCode:</strong> <a href="https://leetcode.com/u/lymphoidcell/">@lymphoidcell</a></li>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/thscho/">Theophanie Scholastica Tanzil</a></li>
-    <li><strong>X (Twitter):</strong> <a href="https://x.com/phanietanzil">@phanietanzil</a></li>
+    <li><strong>Kaggle:</strong> <a href="https://www.kaggle.com/thscho">@thscho</a></li>
     <li><strong>Email:</strong> <a href="mailto:theophanietanzil@gmail.com">theophanietanzil@gmail.com</a></li>
   </ul>
 
