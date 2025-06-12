@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h2>AI/ML, Full Stack Data, Bioinformatics</h2>
+  <h2>AI/ML, Full Stack Data</h2>
 
 </div>
 
