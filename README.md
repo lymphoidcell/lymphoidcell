@@ -42,7 +42,7 @@ This repository contains organized collections of:
 
 | Date Started | Project | Description | Tech Stack | Status |
 |--------------|---------|-------------|------------|--------|
-| 24/10/25 | Undisclosed | TBA | TBA | On Going |
+| 24/10/2025 | Undisclosed | TBA | TBA | On Going |
 
 ---
 
