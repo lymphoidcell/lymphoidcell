@@ -40,9 +40,9 @@ This repository contains organized collections of:
 
 ## Highlighted Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| TBA | TBA | TBA |
+| Date Started | Project | Description | Tech Stack | Status |
+|--------------|---------|-------------|------------|--------|
+| 24/10/25 | Undisclosed | TBA | TBA | On Going |
 
 ---
 
