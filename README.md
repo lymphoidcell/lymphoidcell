@@ -48,9 +48,9 @@ This repository contains organized collections of:
 
 ## Collaboration
 
-| Date Started | Title | Description | Status | Category |
-|--------------|-------|-------------|--------|----------|
-| 10 November 2025 | [Daily Math](https://github.com/lymphoidcell/daily-math) | A collaborative daily math problem-solving project. Mainly for Machine Learning foundation! | ON GOING | Mathematics |
+| Date Started | Title | About | Status | Category |
+|--------------|-------|-------|--------|----------|
+| 10 November 2025 | [Daily Math](https://github.com/lymphoidcell/daily-math) | A collaborative daily math problem-solving project. | ON GOING | Mathematics |
 
 ---
 
