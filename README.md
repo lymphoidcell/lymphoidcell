@@ -1,6 +1,6 @@
 # Hi, I'm Phanie
 
-Full Stack Data and ML Enthusiast | Bioinformatics Graduate
+Full Stack Data and Machine Learning Engineer | Bioinformatics Graduate
 
 ---
 
