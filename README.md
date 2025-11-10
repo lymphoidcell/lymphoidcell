@@ -42,7 +42,15 @@ This repository contains organized collections of:
 
 | Date Started | Project | Description | Tech Stack | Status |
 |--------------|---------|-------------|------------|--------|
-| 24/10/2025 | Undisclosed | TBA | TBA | On Going |
+| 24/10/2025 | Undisclosed | TBA | TBA | ON GOING |
+
+---
+
+## Collaboration
+
+| Date Started | Title | Description | Status | Category |
+|--------------|-------|-------------|--------|----------|
+| 10/11/2025 | [Daily Math](https://github.com/lymphoidcell/daily-math) | A collaborative daily math problem-solving project. Mainly for Machine Learning foundation! | ON GOING | Mathematics |
 
 ---
 
