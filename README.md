@@ -2,12 +2,6 @@
 
 Full Stack Data and Machine Learning Engineer | Bioinformatics Graduate
 
----
-
-## About Me
-
-I work with data analytics, machine learning, and bioinformatics to solve real-world problems. My background in bioinformatics combined with skills in data science and web development allows me to build end-to-end solutions from data processing to deployment.
-
 **What I work with:**
 - Data Analytics and Visualization
 - Machine Learning and Deep Learning
@@ -61,11 +55,11 @@ This repository contains organized collections of:
 
 **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Biopython
 
-**Bioinformatics:** Nextflow, Bioconductor, Linux/Unix scripting
+**Bioinformatics:** Nextflow, Bioconductor, Linux/Unix scripting, Tidyverse
 
-**Visualization:** Tableau, Power BI, Plotly, Streamlit, Blender
+**Visualization:** Tableau, Power BI, Plotly
 
-**Web Development:** MERN Stack, Next.js, Flask, FastAPI
+**Web Development:** MERN Stack, Next.js, FastAPI
 
 **Tools:** Git, Databricks, Docker, Jupyter Notebooks, VS Code
 
